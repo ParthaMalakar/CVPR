@@ -1,0 +1,1 @@
+Detect a person has wear mask or not
