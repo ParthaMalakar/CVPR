@@ -1,0 +1,2 @@
+ MobileNets use depth wise separable convolutions to reduce compute time and predict performance.
+ MobileNet is a type of convolutional neural network designed for mobile and embedded vision applications. 
